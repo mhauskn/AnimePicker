@@ -1,0 +1,7 @@
+AnimePicker was a project designed to serve as a recommendation engine for anime shows. The motivation was personal: I loved Ghost in the Shell and Cowboy Beebop but wasn't sure what anime series to watch next. 
+
+As any good programmer would, I created a program to recommend me another series. The real catch was that didn't have access to a large database of other peoples favorite shows -- therefore I had to make Anime Picker capable of scraping html forums for people's favorite shows. 
+
+This is how the process would work: I would throw it a link to one of the many favorite anime forums and it would parse out the favorite shows of each poster. In total I scraped about 1000 html pages. 
+
+Long story short, I was recommended Samurai Champloo as the next anime to watch. Turned out to be pretty good :). 
