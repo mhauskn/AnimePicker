@@ -1,0 +1,1252 @@
+Tuples has 973 elements.
+0	009-1
+1	3x3 Eyes
+2	3000 Leagues in Search of Mother
+3	8 Man
+4	801 T.T.S. Airbats
+5	AD Police Files
+6	AD Police: To Serve and Protect
+7	Absolute Boy
+8	Ace o Nerae!
+9	Acrobunch
+10	The Adventures of Hello Kitty & Friends
+11	The Adventures of Mini-Goddess
+12	The Adventures of Piccolino
+13	The Adventures of Tweeny Witches
+14	Afro Samurai
+15	After War Gundam X
+16	Agatha Christie's Great Detectives Poirot and Marple
+17	Ah! My Goddess
+18	Ai Shite Knight
+19	Ai Shojo Pollyanna Monogatari
+20	Ai Yori Aoshi
+21	Ai no Wakakusa Monogatari
+22	Air
+23	Air Gear
+24	Air Master
+25	Aishiteruze Baby
+26	Akagi
+27	Akakage
+28	Akazukin Chacha
+29	Akira
+30	Albegas
+31	Alice Academy
+32	Alice SOS
+33	All Purpose Cultural Cat Girl Nuku Nuku
+34	Alpen Rose
+35	Alps Story: My Annette
+36	Amaenaideyo!!
+37	The Amazing 3
+38	Amazing Nurse Nanako
+39	Ambassador Magma
+40	AM Driver
+41	Ancient Books of Ys
+42	Anderson Monogatari
+43	Android Kikaider: The Animation
+44	Angel Cop
+45	Angel Heart
+46	Angel Links
+47	Angel Tales
+48	Angelic Layer
+49	Angelique
+50	Animal Yokocho
+51	Anime Complex
+52	Anmitsu Hime
+53	Anne of Green Gables
+54	Anpanman
+55	Antique Bakery
+56	Aoki Densetsu Shoot!
+57	Aqua Kids
+58	Aquarian Age: Sign for Evolution
+59	Araiguma Rascal
+60	Arc the Lad
+61	Arcadia of My Youth
+62	Area 88
+63	Argento Soma
+64	Aria
+65	Arion
+66	Armitage
+67	Armitage II
+68	Armitage III
+69	Armored Police Metal Jack
+70	Armored Trooper Votoms
+71	Arrow Emblem Hawk of the Grand Prix
+72	Asatte no Houkou
+73	Ashita no Nadja
+74	Ask Dr. Rin!
+75	Astro Boy
+76	Astro Boy (1980)
+77	Astro Boy (2003)
+78	Atashin'chi
+79	Attack No. 1
+80	Attack on Tomorrow
+81	Attacker You!
+82	Aura Battler Dunbine
+83	Avenger
+84	Ayakashi
+85	Ayakashi Ayashi
+86	Azuki-chan
+87	Azumanga Daioh
+88	B't X
+89	BECK: Mongolian Chop Squad
+90	Babel II
+91	Baby Felix
+92	Baby and Me
+93	Baccano
+94	Bagi, the Monster of Mighty Nature
+95	Baki the Grappler
+96	Bakugan Battle Brawlers
+97	Bakumatsu Kikansetsu Irohanihoheto
+98	Bakuso Kyodai Let's & Go!!
+99	Baldios
+100	Bamboo Blade
+101	Banner of the Stars
+102	Barom One
+103	Bartender
+104	Basara
+105	Basilisk
+106	Battle Angel
+107	Battle Athletes
+108	Battle Athletes Victory
+109	B-Daman
+110	Battle Programmer Shirase
+111	Baxinger
+112	Beck
+113	Beet the Vandel Buster
+114	Belle and Sebastian
+115	Berserk
+116	Best Student Council
+117	Betterman
+118	Beyblade
+119	The Big O
+120	Big X
+121	Binbo Shimai Monogatari
+122	Bincho-tan
+123	Black Blood Brothers
+124	Black Cat
+125	Black Heaven
+126	Black Jack
+127	Black Lagoon
+128	Bleach
+129	Blocker Gundan 4 Machine Blaster
+130	Blood+
+131	Blue Comet SPT Layzner
+132	Blue Dragon
+133	Blue Gender
+134	Blue Seed
+135	Bobobo-bo Bo-bobo
+136	Boku no Pico
+137	Boku wa Imoto ni Koi o Suru
+138	Bokura ga Ita
+139	Bokurano
+140	Bokusatsu Tenshi Dokuro-chan
+141	Bomberman B-Daman Bakugaiden
+142	Bomberman Jetters
+143	Boogiepop Phantom
+144	Boogiepop series
+145	Bosco Adventure
+146	Bottle Fairy
+147	Boys Be...
+148	Boys Over Flowers
+149	Braiger
+150	Brain Powerd
+151	Brave Command Dagwon
+152	Brave Exkaiser
+153	Brave Police J-Decker
+154	Brave Raideen
+155	Brigadoon: Marin & Melan
+156	Bubblegum Crisis
+157	Bubblegum Crash
+158	Bubblegum Crisis Tokyo 2040
+159	Bumpety Boo
+160	Burn Up Excess
+161	Burn Up Scramble
+162	Burn Up W
+163	Burst Angel
+164	The Bush Baby
+165	Buso Renkin
+166	Calimero
+167	The Candidate for Goddess
+168	Candy Candy
+169	Canvas -A Motif Sepia Coloured-
+170	Canvas 2 ~Niji Iro no Sketch~
+171	Capeta
+172	Captain
+173	Captain Future
+174	Captain Harlock
+175	Captain Harlock and the Queen of a Thousand Years
+176	Captain Tsubasa
+177	Cardcaptor Sakura
+178	Carried by the Wind: Tsukikage Ran
+179	Case Closed
+180	Casshan
+181	Cat's Eye
+182	Ceres, Celestial Legend
+183	Chance Pop Session
+184	Cheeky Angel
+185	Chibi Maruko-chan
+186	Chiisa na Obake Acchi, Socchi, Kocchi
+187	Cho Henshin CosPrayers
+188	Cho Kosoku Galvion
+189	Chobits
+190	Chocotto Sister
+191	Chou Kuse ni Narisou
+192	Chrono Crusade
+193	Chuka Ichiban
+194	Cinderella Boy
+195	Cinderella Monogatari
+196	City Hunter
+197	Clamp School Detectives
+198	Clannad
+199	Claymore
+200	Cluster Edge
+201	Code Geass
+202	Colorful
+203	Combat Mecha Xabungle
+204	Combattler V
+205	Comic Party
+206	Cooking Papa
+207	Corrector Yui
+208	Cosmo Warrior Zero
+209	Cowboy Bebop
+210	Coyote Ragtime Show
+211	Crayon Shin-chan
+212	Crest of the Stars
+213	Cromartie High School
+214	Crush Gear Turbo
+215	Crying Freeman
+216	Cutie Honey
+217	New Cutie Honey
+218	Cutie Honey Flash
+219	Re: Cutie Honey
+220	Cyber Team in Akihabara
+221	Cyborg 009
+222	Cybuster
+223	D.C. ~Da Capo~
+224	D.Gray-man
+225	D.I.C.E.
+226	D.N.Angel
+227	D4 Princess
+228	DNA²
+229	DT Eightron
+230	Dai-Guard
+231	Daigunder
+232	Daimos
+233	Daltanius
+234	Damekko Dobutsu
+235	Dan Doh!!
+236	Dancougar - Super Beast Machine God
+237	Dangaioh
+238	Daphne in the Brilliant Blue
+239	Darker than Black
+240	Darkstalkers
+241	Dear Boys
+242	DearS
+243	Death Note
+244	Deko Boko Friends
+245	Demashita! Powerpuff Girls Z
+246	Demetan Croaker, The Boy Frog
+247	Demon City Shinjuku
+248	The Demon Ororon
+249	Demon Lord Dante
+250	Demonbane
+251	Denno Coil
+252	Descendants of Darkness
+253	Desert Punk
+254	Detective School Q
+255	Detonator Orgun
+256	Devil Lady
+257	Devil May Cry
+258	Devilman
+259	Di Gi Charat
+260	Di Gi Charat Nyo!
+261	Diebuster
+262	Digimon Adventure
+263	Digimon Adventure 02
+264	Digimon Data Squad
+265	Digimon Frontier
+266	Digimon Tamers
+267	Dinozaurs
+268	Dirty Pair
+269	Dirty Pair Flash
+270	Disgaea: The Animation
+271	Divergence Eve
+272	Dogtato
+273	Dokaben
+274	Doki Doki School Hours
+275	Dokkiri Doctor
+276	Dokkoider
+277	Domo-kun
+278	Doomed Megalopolis
+279	Doraemon
+280	Dororo
+281	Dr. Slump
+282	Dragon Ball
+283	Dragon Ball Z
+284	Dragon Ball GT
+285	Dragon Drive
+286	Dragon Fist
+287	Dragon Half
+288	Dragon Quest
+289	Dragon Quest: Dai no Daibouken
+290	Dragon Warrior
+291	Dual! Parallel Trouble Adventure
+292	Duel Masters
+293	Dojin Work
+294	Dokyusei series
+295	E's Otherwise
+296	Earth Maiden Arjuna
+297	Earthian
+298	Eat-Man
+299	Eden's Bowy
+300	El Cazador de la Bruja
+301	El-Hazard
+302	Elemental Gelade
+303	Elf Princess Rane
+304	Elfen Lied
+305	Emma (anime and manga)
+306	Engage Planet Kiss Dum
+307	Ergo Proxy
+308	Esper Mami
+309	Eureka Seven
+310	Excel Saga
+311	Eyeshield 21
+312	F-Zero GP Legend
+313	FLAG
+314	Fables of the Green Forest
+315	Fafner of the Azure
+316	Fairy Persia of Magic
+317	Fancy Lala
+318	Fang of the Sun Dougram
+319	Fantastic Children
+320	Fatal Fury: Legend of the Hungry Wolf
+321	Fate/stay night
+322	Fighting Beauty Wulong
+323	Fighting Foodons
+324	Fighting Spirit
+325	Figure 17
+326	Final Approach
+327	Final Fantasy: Legend of the Crystals
+328	Final Fantasy: Unlimited
+329	Fire Emblem
+330	Fist of the Blue Sky
+331	Fist of the North Star
+332	Flame of Recca
+333	Flanders no Inu
+334	Flanders no Inu, Boku no Patrasche
+335	Flint the Time Detective
+336	Floral Magician Mary Bell
+337	The Flying House
+338	Force Five
+339	Fortune Dogs
+340	Fruits Basket
+341	Fruits Basket Musical
+342	Full Metal Panic!
+343	Full Metal Panic? Fumoffu
+344	Full Metal Panic!: The Second Raid
+345	Full Moon o Sagashite
+346	Fullmetal Alchemist
+347	Fushigi Yugi
+348	Fushigi Yugi Genbu Kaiden
+349	Fushigi no Kuni no Alice
+350	Fushigiboshi no Futagohime
+351	Futakoi
+352	Futakoi Alternative
+353	Futari wa Pretty Cure
+354	Futari wa Pretty Cure Splash Star
+355	Future Boy Conan
+356	Future GPX Cyber Formula
+357	Future GPX Cyber Formula SIN
+358	G-Force: Guardians of Space
+359	G-On Riders
+360	G.I. Joe: Sigma 6
+361	Gad Guard
+362	Gaiking
+363	Gakuen Heaven
+364	Gakuen Utopia Manabi Straight!
+365	Galaxy Angel
+366	Galaxy Angel II
+367	Galaxy Express 999
+368	Gallery Fake
+369	Gals!
+370	Game Center Arashi
+371	Ganbare Genki
+372	Ganbare, Kickers!
+373	Gankutsuou: The Count of Monte Cristo
+374	Gantz
+375	Gasaraki
+376	Gate Keepers
+377	GeGeGe no Kitaro
+378	Gear Fighter Dendoh
+379	Geisters
+380	Generator Gawl
+381	Geneshaft
+382	Genesis Climber Mospeada
+383	Genesis Survivor Gaiarth
+384	Genesis of Aquarion
+385	Genki Bakuhatsu Ganbaruger
+386	Genma Taisen
+387	Genshiken
+388	Georgie!
+389	GetBackers
+390	Getsumento Heiki Mina
+391	Getter Robo
+392	Getter Robo Armageddon
+393	Getter Robo G
+394	Ghost Hunt
+395	Ghost Stories
+396	Ghost Sweeper Mikami
+397	Ghost in the Shell: Stand Alone Complex
+398	Ghost in the Shell: S.A.C. 2nd GIG
+399	Gift
+400	Gigantor
+401	Gilgamesh
+402	Ginban Kaleidoscope
+403	Ginga Hyoryu Vifam
+404	Ginga Densetsu Weed
+405	Ginga: Nagareboshi Gin
+406	Gintama
+407	Girls Bravo
+408	Glass Mask
+409	Glass no Kantai - La Legende du vent de l'univers
+410	Gloizer X
+411	Go! Go! Itsutsugo Land
+412	GoShogun
+413	God Mazinger
+414	Godannar
+415	Gokudo
+416	Gokusen
+417	Golden Warrior Gold Lightan
+418	Goldfish Warning!
+419	Golion
+420	Good Witch of the West Astraea Testament
+421	Gordian Warrior
+422	Goro Goro Iki
+423	Gowappa 5 Godam
+424	Gravion
+425	Gravion Zwei
+426	Gravitation
+427	Great Dangaioh
+428	Great Mazinger
+429	Great Teacher Onizuka
+430	Green Green
+431	Gregory Horror Show
+432	Grenadier - The Senshi of Smiles
+433	Grendizer
+434	Grimm's Fairy Tale Classics
+435	Ground Defense Force! Mao-chan
+436	Guardian Angel Getten
+437	Guardian of the Sacred Spirit
+438	Gulliver Boy
+439	Gun Frontier
+440	Gun Sword
+441	Gunbuster
+442	Gundam
+443	Gundam Evolve
+444	Gungrave
+445	Gunparade March
+446	Gunslinger Girl
+447	Gunsmith Cats
+448	Gurren Lagann
+449	Guyver/Guyver: The Bioboosted Armor
+450	Gyagu Manga Biyori
+451	Gyoten ningen batseelor
+452	H2
+453	Hades Project Zeorymer
+454	Haibane Renmei
+455	Haikara-san ga Toru
+456	Hajime no Ippo
+457	Hakugei: Legend of the Moby Dick
+458	Hamtaro
+459	Hana no Ko Lunlun
+460	Hanaukyo Maid Team
+461	Hanbun no Tsuki ga Noboru Sora
+462	Hand Maid May
+463	Haou Taikei Ryu Knight
+464	Hapiraki Bikkuriman
+465	Happiness!
+466	Happy Lesson
+467	Happy Lesson Advance
+468	Happy Seven
+469	Haru wo Daiteita
+470	Harukanaru Toki no Naka de Hachiyo Sho
+471	Haré+Guu
+472	Hataraki Man
+473	Haunted Junction
+474	Hayate the Combat Butler
+475	He Is My Master
+476	Heat Guy J
+477	Heavy Metal L-Gaim
+478	Heidi, Girl of the Alps
+479	Hell Teacher Nube
+480	Hello Kitty
+481	Hello! Sandybell
+482	Hellsing
+483	Hero Tales
+484	Heroic Age
+485	The Heroic Legend of Arslan
+486	Hiatari Ryoko!
+487	Hidamari Sketch
+488	High School Girls
+489	High School! Kimengumi
+490	Highlander: The Search for Vengeance
+491	Higurashi no Naku Koro ni
+492	Hikari no Densetsu
+493	Hikarian
+494	Hikaru no Go
+495	Himawari!
+496	Hime-chan's Ribbon
+497	Himesama Goyojin
+498	Himitsu no Akko-chan
+499	Hit wo Nerae!
+500	Hitohira
+501	Honey Honey no Suteki na Bouken
+502	Honey and Clover
+503	Hoshin Engi
+504	Hungry Heart: Wild Striker
+505	Hunter × Hunter
+506	Hyper Police
+507	Hyperion (Legend of the Galactic Heroes)
+508	I Love Bubu Chacha
+509	I My Me! Strawberry Eggs
+510	I'm Gonna Be An Angel!
+511	Ichigo 100%
+512	Idaten Jump
+513	Idol Densetsu Eriko
+514	Idol Project
+515	Idolmaster: Xenoglossia
+516	Ie Naki Ko
+517	Iga no Kabamaru
+518	Iketeru Futari
+519	Ikki Tousen
+520	Ikkyu-san
+521	Immortal Grand Prix
+522	Imokawa Mukuzo Genkanban no Maki
+523	Infinite Ryvius
+524	Initial D
+525	Innocent Venus
+526	InuYasha
+527	Inukami!
+528	Invincible Steel Man Daitarn 3
+529	Invincible Super Man Zambot 3
+530	Ironfist Chinmi
+531	The Irresponsible Captain Tylor
+532	Itsudatte My Santa!
+533	Izumo: Takeki Tsurugi no Senki
+534	J2: Jubei-chan 2
+535	Jeanie with the Light Brown Hair
+536	Jibaku-kun
+537	Jigoku Shojo
+538	Jinki:EXTEND
+539	Jubei-chan: The Ninja Girl
+540	Judge
+541	Judo Boy
+542	Jungle Book Shonen Mowgli
+543	Junjou Romantica
+544	Jushin Liger
+545	Juuni Senshi Bakuretsu Eto Ranger
+546	Jyu Oh Sei
+547	Juso Kiko Dancouga Nova
+548	Kage Kara Mamoru!
+549	Kagihime Monogatari Eikyu Alice Rondo
+550	Kaibutsu-kun
+551	Kaiketsu Zorori
+552	Kaiketsu Zorro
+553	Kakurenbo
+554	Kaleido Star
+555	Kamichama Karin
+556	Kamichu!
+557	Kamikaze Kaito Jeanne
+558	Kamisama Kazoku
+559	Kannazuki no Miko
+560	Kanon
+561	Karakuri Kiden Hiwo Senki
+562	Kare Kano
+563	Karen (Mermaid Melody Pichi Pichi Pitch character)
+564	Karin
+565	Kashimashi
+566	Kaze no Stigma
+567	Kaze no Yojimbo
+568	Kekkaishi
+569	Kekko Kamen
+570	Kemonozume
+571	Kenichi
+572	Kenko Zenrakei Suieibu Umisho
+573	Kenran Butohsai
+574	Kero Kero Chime
+575	Kiba
+576	Kiddy Grade
+577	Kido Shinsengumi Moeyo Ken
+578	Kikaider
+579	Kikou Kantai Dairugger XV
+580	Kimagure Orange Road
+581	Kimba the White Lion
+582	Kimi ga Nozomu Eien
+583	KimiKiss
+584	Kindaichi Case Files
+585	King Arthur and the Knights of the Round Table
+586	King Arthur: Prince on White Horse
+587	King of Bandit Jing
+588	King of Braves GaoGaiGar
+589	King of Braves GaoGaiGar FINAL
+590	Kiniro no Corda
+591	Kinkyuu Hasshin Saver Kids
+592	Kinnikuman
+593	Kino's Journey
+594	Kirarin Revolution
+595	Kirby: Right Back at Ya!
+596	Kishin Taisen Gigantic Formula
+597	Kita e
+598	Kite
+599	Kiteretsu Daihyakka
+600	Kizuna: Bonds of Love
+601	Kochira Katsushika-ku Kameari Koen-mae Hashutsujo
+602	Kodocha
+603	Kodomo no Jikan
+604	Koi Kaze
+605	Koi Koi Seven
+606	Koji Koji
+607	Kokoro Library
+608	Kotaro Makaritoru
+609	Kotencotenco
+610	Kotetsushin Jeeg
+611	Kujibiki Unbalance
+612	Kujibiki Unbalance (2006 series)
+613	Kurau Phantom Memory
+614	Kurogane Communication
+615	Kyo Kara Maoh!
+616	Kyoshiro to Towa no Sora
+617	Kyouran Kazoku Nikki
+618	L/R: Licensed by Royalty
+619	LOVE?LOVE?
+620	La Blue Girl
+621	La Seine no Hoshi
+622	Lamune
+623	Last Exile
+624	Laughing Target
+625	The Law of Ueki
+626	Le Chevalier D'Eon
+627	Le Portrait de Petite Cossette
+628	Legend of Himiko
+629	Legend of the Condor Hero
+630	Legend of the Galactic Heroes
+631	Legendz
+632	Leo the Lion
+633	Lion Books
+634	The Littl' Bits
+635	Little Pollon
+636	A Little Snow Fairy Sugar
+637	Lost Universe
+638	Love Get Chu
+639	Love Hina
+640	Loveless
+641	Lovely Complex
+642	Lovely Idol
+643	Lucky Star
+644	Lupin III
+645	Maburaho
+646	Machine Robo Rescue
+647	Machine Robo: Battle Hackers
+648	Machine Robo: Revenge of Cronos
+649	Macross 7
+650	Macross F
+651	Macross Plus
+652	Macross Zero
+653	Madara
+654	Madlax
+655	Madoh Oh Granzort
+656	Maeterlinck's Blue Bird: Tyltyl and Mytyl's Adventurous Journey
+657	Magic Knight Rayearth
+658	Magic User's Club
+659	Magical Angel Creamy Mami
+660	Magical Angel Sweet Mint
+661	Magical Canan
+662	Magical DoReMi
+663	Magical Fairy Persia
+664	Magical Girl Lyrical Nanoha
+665	Magical Girl Lyrical Nanoha A's
+666	Magical Girl Lyrical Nanoha StrikerS
+667	Magical Idol Pastel Yumi
+668	Magical Nyan Nyan Taruto
+669	Magical Play
+670	Magical Princess Minky Momo
+671	Magical Project S
+672	Magical Shopping Arcade Abenobashi
+673	Magical Star Magical Emi
+674	Magical Taruruto-kun
+675	Magikano
+676	Magne Robo Gakeen
+677	Mahoraba
+678	Mahoromatic
+679	Mahojin Guru Guru
+680	Maico 2010
+681	Maison Ikkoku
+682	Majokko Megu-chan
+683	Major
+684	Disgaea: The Animation
+685	Makiba no Shojo Katori
+686	Mama Loves the Poyopoyo-Saurus
+687	Mama wa Shogaku 4 Nensei
+688	Mamoru-kun ni Megami no Shukufuku wo!
+689	Mamotte! Lollipop
+690	Mimu Iro Iro Yume no Tabi
+691	MapleStory
+692	Maple Town
+693	Maria-sama ga Miteru
+694	Marine a go go
+695	Marmalade Boy
+696	Martian Successor Nadesico
+697	Marvelous Melmo
+698	Master Keaton
+699	Master Mosquiton '99
+700	Maya the Bee
+701	Maze
+702	Mazinger
+703	Mazinger Z
+704	Mazinkaiser
+705	Mechander Robo
+706	Medabots
+707	Mega Man Star Force
+708	MegaMan NT Warrior
+709	Meiken Lassie
+710	Meine Liebe
+711	The Melancholy of Haruhi Suzumiya
+712	Melody of Oblivion
+713	Mermaid Melody Pichi Pichi Pitch
+714	Mermaid Melody Pichi Pichi Pitch Pure
+715	Mermaid Saga
+716	Metal Armor Dragonar
+717	Metal Fighter Miku
+718	Mezzo DSA
+719	Miami Guns
+720	Midnight Horror School
+721	Midori Days
+722	Mighty Orbots
+723	Minami no Niji no Lucy
+724	Minna no Uta
+725	Miracle Giants Dome-kun
+726	Miracle Girls
+727	Mirage of Blaze
+728	Mirmo!
+729	Misaki Chronicles
+730	Les Misérables: Shojo Cosette
+731	Miyuki
+732	Miyuki-chan in Wonderland
+733	Mizuiro Jidai
+734	Mobile Fighter G Gundam
+735	Mobile Suit Gundam
+736	Mobile Suit Gundam 00
+737	Mobile Suit Gundam SEED
+738	Mobile Suit Gundam SEED Destiny
+739	Mobile Suit Gundam Wing
+740	Mobile Suit Gundam ZZ
+741	Mobile Suit Victory Gundam
+742	Mobile Suit Zeta Gundam
+743	Modern Love's Silliness
+744	Mon Colle Knights
+745	Monchhichis
+746	Monkey Magic
+747	Monkey Typhoon
+748	Monochrome Factor
+749	Monster
+750	Monster Rancher
+751	Montana Jones
+752	Moomin
+753	Moonlight Mask
+754	Moonlight Mile
+755	Mouse
+756	Mo~tto! Ojamajo Doremi
+757	Mr. Stain
+758	Muka Muka Paradise
+759	Musashi Gundoh
+760	Mushi-Uta
+761	Mushishi
+762	Muteki Kanban Musume
+763	My-HiME
+764	My-Otome
+765	The Mysterious Cities of Gold
+766	The Mythical Detective Loki Ragnarok
+767	MÄR
+768	NG Knight Lamune & 40
+769	Nabari no Ou
+770	Nadia: The Secret of Blue Water
+771	Nagasarete Airantou
+772	Najica Blitz Tactics
+773	Nana
+774	Nanaka 6/17
+775	Nanako SOS
+776	Nanatsuiro Drops
+777	Naruto
+778	Negima!: Magister Negi Magi
+779	Negima!?
+780	Neighborhood Story
+781	Nekketsu Saikyo Go-Saurer
+782	Neo Ranga
+783	Neon Genesis Evangelion
+784	Nerima Daikon Brothers
+785	NieA 7
+786	Night Head Genesis
+787	Nightwalker: The Midnight Detective
+788	Nils no Fushigi na Tabi
+789	Ninja Nonsense
+790	Ninja Resurrection
+791	Ninja Scroll: The Series
+792	Ninja Senshi Tobikage
+793	Ninku
+794	Nintama Rantaro
+795	Nodame Cantabile
+796	Noein
+797	Noir
+798	Norakuro
+799	Now and Then, Here and There
+800	Nozomi Witches
+801	Nurse Angel Ririka SOS
+802	Nurse Witch Komugi
+803	Obake no Q-taro
+804	Ogon Bat
+805	Oh My Goddess!
+806	Oh! Edo Rocket
+807	Ojamajo Doremi
+808	Ojamajo Doremi Dokkan
+809	Ojamajo Doremi Na-i-sho
+810	Ojamajo Doremi Sharp
+811	Ojarumaru
+812	Oku-sama wa Joshi Kosei
+813	Oku-sama wa Maho Shojo: Bewitched Agnes
+814	Omishi Magical Theater: Risky Safety
+815	One Piece
+816	Onegai My Melody
+817	Onegai! Samia Don
+818	Oniisama e...
+819	Onmyo Taisenk
+820	Orders to Assassinate Lupin
+821	Oruchuban Ebichu
+822	Osomatsu-kun
+823	Otaku no Video
+824	Otogi Manga Calendar
+825	Otogi-Jushi Akazukin
+826	Otogizoshi
+827	Otome wa Boku ni Koishiteru
+828	Ouran High School Host Club
+829	Outlaw Star
+830	Overman King Gainer
+831	Ox Tales
+832	O~i! Ryoma
+833	PaRappa Rappa Episodes
+834	Panda-Z
+835	Pani Poni Dash!
+836	Pants Pankuro
+837	Panyo Panyo Di Gi Charat
+838	Papuwa
+839	Paradise Kiss
+840	Paranoia Agent
+841	Parasol Henbe
+842	Patlabor
+843	Patlabor: The New Files
+844	Patlabor: The TV Series
+845	Peacemaker Kurogane
+846	Peach Girl
+847	Perrine Monogatari
+848	Pet Shop of Horrors
+849	Peter Pan no Boken
+850	Petite Princess Yucie
+851	Petopeto-san
+852	Phantom of Inferno
+853	Piano: The Melody of a Young Girl's Heart
+854	Ping-Pong Club
+855	Pita-Ten
+856	Planetes
+857	Plawres Sanshiro
+858	Play Ball
+859	Please Teacher!
+860	Please Twins!
+861	Pluster World
+862	PoPoLoCrois
+863	Pokémon
+864	Pokémon Chronicles
+865	Pokémon: Advanced Generation
+866	Pokémon: Diamond and Pearl series
+867	Popotan
+868	Potemayo
+869	Prétear
+870	Prince Planet
+871	The Prince of Tennis
+872	Princess Comet
+873	Princess Knight
+874	Princess Nine
+875	Princess Princess
+876	Princess Resurrection
+877	Princess Sarah
+878	Princess Tutu
+879	Project A-ko
+880	Project ARMS
+881	Pumpkin Scissors
+882	Puni Puni Poemi
+883	Pururun! Shizuku-Chan
+884	Paman
+885	R.O.D the TV
+886	Ragnarok the Animation
+887	RahXephon
+888	Raimuiro Senkitan
+889	Rainbowman
+890	Rakugo Tennyo Oyui
+891	Ranma ½
+892	Rave Master
+893	Ray the Animation
+894	List of Ray the Animation characters
+895	Reborn!
+896	Rec
+897	Record of Lodoss War
+898	Red Baron
+899	Red Garden
+900	Reideen
+901	Reign
+902	Remi, Nobody's Girl
+903	Renkin 3-kyu Magical ? Pokan
+904	Requiem from the Darkness
+905	Revolutionary Girl Utena
+906	Ring ni Kakero
+907	Rizelmine
+908	Robin Hood no Daiboken
+909	Robotech
+910	Rocket Girls
+911	Romeo no Aoi Sora
+912	Romeo x Juliet
+913	Ronin Warriors
+914	The Rose of Versailles
+915	Rozen Maiden
+916	Rosario+Vampire
+917	Rumic Theater
+918	Rune Soldier
+919	Rurouni Kenshin
+920	S-CRY-ed
+921	Saban's Adventures of Pinocchio
+922	Saban's Adventures of the Little Mermaid
+923	Saber Marionette
+924	Saber Marionette J
+925	Saber Marionette J Again
+926	Saber Marionette J to X
+927	Saber Rider and the Star Sheriffs
+928	Sadamitsu the Destroyer
+929	Saikano
+930	Sailor Moon
+931	Saint Beast
+932	Saint October
+933	Saint Seiya
+934	Saint Tail
+935	Saiunkoku Monogatari
+936	Saiyuki
+937	Saiyuki Gunlock
+938	Saiyuki Reload
+939	Sakigake!! Otokojuku
+940	Salaryman Kintaro
+941	Sally, the Witch
+942	Samurai 7
+943	Samurai Champloo
+944	Samurai Deeper Kyo
+945	Samurai Girl: Real Bout High School
+946	Samurai Gun
+947	Samurai Pizza Cats
+948	Saru Get You -On Air-
+949	Sarutobi Ecchan
+950	Sasami: Mahou Shoujo Club
+951	Sasuraiger
+952	Sayonara Zetsubo Sensei
+953	Sazae-san
+954	School Days
+955	School Rumble
+956	Sci-Fi Harry
+957	Science Ninja Team Gatchaman
+958	Scrapped Princess
+959	Secret of Cerulean Sand
+960	Sei Jushi Bismarck
+961	Sennin Buraku
+962	Sensual Phrase
+963	Sentimental Graffiti
+964	Seraphim Call
+965	Serendipity the Pink Dragon
+966	Serial Experiments Lain
+967	Seto no Hanayome
+968	Seven of Seven
+969	Sexy Commando Gaiden: Sugoiyo! Masaru-san
+970	Sgt. Frog
+971	Shadow Skill
+972	Shadow Star
+973	Shakugan no Shana
+974	Shakugan no Shana the Second
+975	Shaman King
+976	Shamanic Princess
+977	Sherlock Hound
+978	Shijo Saikyo no Deshi Kenichi
+979	Shin Getter Robo vs Neo Getter Robo
+980	Shin Muumin
+981	Shingu: Secret of the Stellar Wars
+982	Shinigami no Ballad: Momo, The Girl God of Death
+983	Shining Tears X Wind
+984	Shinkyoku Sokai Polyphonica
+985	Shinzo
+986	Shion no O
+987	Shippu! Iron Leaguer
+988	Shonen Ninja Kaze no Fujimaru
+989	Shoukoushi Cedie
+990	Shrine of the Morning Mist
+991	Shuffle!
+992	Shugo Chara!
+993	Shura no Toki - Age of Chaos
+994	Shonen Onmyoji
+995	Silent Möbius
+996	Simoun
+997	Sister Princess
+998	Sisters of Wellber
+999	Six God Combination Godmars
+1000	Sketchbook
+1001	Skull Man
+1002	Sky Girls
+1003	Slam Dunk
+1004	Slayers
+1005	The Snow Queen
+1006	Soccer Fever
+1007	Sol Bianca
+1008	Sol Bianca: The Legacy
+1009	Sola (series)
+1010	SoltyRei
+1011	Someday's Dreamers
+1012	Sonic Soldier Borgman
+1013	Sonic X
+1014	Sorcerer Hunters
+1015	Sorcerous Stabber Orphen
+1016	Soul Link
+1017	The SoulTaker
+1018	Space Ace
+1019	Space Adventure Cobra
+1020	Space Battleship Yamato
+1021	Space Carrier Blue Noah
+1022	Space Emperor God Sigma
+1023	Space Runaway Ideon
+1024	Special A
+1025	Special Armored Batallion Dorvack
+1026	Speed Grapher
+1027	Speed Racer
+1028	Spider Riders
+1029	Spiral: Suiri no Kizuna
+1030	Spoon Obasan
+1031	St. Luminous Mission High School
+1032	Star Ocean EX
+1033	Star Ocean: The Second Story
+1034	Star of the Giants
+1035	Starship Girl Yamamoto Yohko
+1036	Starship Operators
+1037	Starzinger
+1038	Steam Detectives
+1039	Steel Angel Kurumi
+1040	Steel Jeeg
+1041	Stellvia of the Universe
+1042	Strange Dawn
+1043	Stratos 4
+1044	Strawberry Marshmellow
+1045	Strawberry Panic!
+1046	Street Fighter II V
+1047	Studio Pierrot magical girl series
+1048	Submarine Super 99
+1049	Sugar Sugar Rune
+1050	Sukisho
+1051	Sumomomo Momomo
+1052	Super B-Daman
+1053	The Super Dimension Cavalry Southern Cross
+1054	The Super Dimension Century Orguss
+1055	The Super Dimension Fortress Macross
+1056	Super Doll Licca-chan
+1057	The Super Milk-chan Show
+1058	Super Pig
+1059	Super Robot
+1060	Super Robot Wars Original Generation: Divine Wars
+1061	Super Robot Wars Original Generation: The Animation
+1062	Superbook
+1063	Superior Defender Gundam Force
+1064	Suzuka
+1065	Sweet Valerian
+1066	The Swiss Family Robinson: Flone of the Mysterious Island
+1067	Soko no Strain
+1068	Tactical Roar
+1069	Tactics
+1070	Tadeshi
+1071	Tales of Eternia: The Animation
+1072	Tales of Phantasia: The Animation
+1073	Tales of Symphonia: The Animation
+1074	Tama and Friends
+1075	Tanoshii Moomin Ikka: Boken Nikki
+1076	Taro the Space Alien
+1077	Tatakae!! Ramenman
+1078	Tekkaman Blade
+1079	Tekkaman: The Space Knight
+1080	Tenamonya Votagers
+1081	Tenchi Muyo! Ryo-Ohki
+1082	Tenchi Muyo! GXP
+1083	Tenchi Universe
+1084	Tenchi in Tokyo
+1085	Tengen Toppa Gurren Lagann
+1086	Tenjho Tenge
+1087	Tenko and the Guardians of the Magic
+1088	Tensai Bakabon
+1089	Texhnolyze
+1090	The Galaxy Railways
+1091	The Marshmallow Times
+1092	The Third
+1093	The Twelve Kingdoms
+1094	The Wonderful Wizard of Oz
+1095	This Ugly Yet Beautiful World
+1096	Those Who Hunt Elves
+1097	Those Who Hunt Elves II
+1098	Three Musketeers
+1099	Thunderbirds 2086
+1100	Tide-Line Blue
+1101	Tiger Mask
+1102	Tiger Mask II
+1103	Time Bokan
+1104	To Heart
+1105	To Heart: Remember My Memories
+1106	ToHeart2
+1107	Tokimeki Memorial
+1108	Tokimeki Memorial Only Love
+1109	Tokimeki Tonight
+1110	Tokko
+1111	Tokyo Majin Gakuen Kenpucho: To
+1112	Tokyo Mew Mew
+1113	Tokyo Pig
+1114	Tokyo Underground
+1115	Tom Sawyer no Boken
+1116	Tomorrow's Joe
+1117	Tonagura!
+1118	Tongari Boushi no Memoru
+1119	Touch
+1120	Touka Gettan
+1121	Tournament of the Gods
+1122	Tove Jasson no Tanoshii Mumin Ikka
+1123	Toward the Terra
+1124	The Transformers
+1125	Transformers: Animated
+1126	Transformers: Armada
+1127	Transformers: Cybertron
+1128	Transformers: Energon
+1129	Transformers: Robots in Disguise
+1130	Transformers: Super-God Masterforce
+1131	Transformers: The Headmasters
+1132	Transformers: Victory
+1133	Transformers: Zone
+1134	Trapp Ikka Monogatari
+1135	Trider G7
+1136	Trigun
+1137	Trinity Blood
+1138	Triton of the Sea
+1139	Trouble Chocolate
+1140	True Tears
+1141	Tsubasa: Reservoir Chronicle
+1142	Tsuide ni Tonchinkan
+1143	Tsuki wa Higashi ni Hi wa Nishi ni: Operation Sanctuary
+1144	Tsukihime
+1145	Tsukihime, Lunar Legend
+1146	Tsukuyomi -Moon Phase-
+1147	Tsuyokiss
+1148	Turn A Gundam
+1149	Twin Signal
+1150	Twin Spica
+1151	Twinbee
+1152	UFO Baby
+1153	UFO Robo Grendizer
+1154	UFO Ultramaiden Valkyrie
+1155	UFO Warrior Dai Apolon
+1156	Ultimate Girls
+1157	Ultimate Muscle
+1158	Ultra Maniac
+1159	Uninhabited Planet Survive!
+1160	Urotsukidoji
+1161	Urusei Yatsura
+1162	Ushio and Tora
+1163	Uta Kata
+1164	Utawarerumono
+1165	VS Knight Lamune & 40 Fire
+1166	Vampire Knight
+1167	Vampire Princess Miyu
+1168	Vampiyan Kids
+1169	Vandread
+1170	Venus Versus Virus
+1171	Vicky the Viking
+1172	Video Warrior Laserion
+1173	Video Girl Ai
+1174	Viewtiful Joe
+1175	Violinist of Hameln
+1176	Virus Buster Serge
+1177	The Vision of Escaflowne
+1178	Voltes V
+1179	Voltron
+1180	W Juliet
+1181	W Wish
+1182	Wagaya no Oinari-sama
+1183	Wakakusa Monogatari Nan to Jou Sensei
+1184	Wakakusa Monogatari Yori Wakakusa no Yon Shimai
+1185	Wakusei Robo Danguard Ace
+1186	The Wallflower
+1187	Wandaba Style
+1188	Wandering Sun
+1189	Wangan Midnight
+1190	Wataru
+1191	Watashi no Ashinaga Ojisan
+1192	Wedding Peach
+1193	Weiß Kreuz
+1194	Welcome to the N.H.K.
+1195	Wellber no Monogatari
+1196	What's Michael?
+1197	Whistle!
+1198	Wild Arms: Twilight Venom
+1199	Wind: A Breath of Heart
+1200	Windy Tales
+1201	Wingman
+1202	The Wings of Rean
+1203	Witch Hunter Robin
+1204	Witchblade
+1205	Wolf and Spice
+1206	Wolf's Rain
+1207	The World of Narue
+1208	X
+1209	Xenosaga: The Animation
+1210	xxxHolic
+1211	Yaiba
+1212	Yakitate!! Japan
+1213	Yami No Matsuei
+1214	Yami to Boshi to Hon no Tabibito
+1215	Yat Anshin Uchuu Ryokou
+1216	Yatterman
+1217	Yawara! A Fashionable Judo Girl
+1218	Yes! PreCure 5
+1219	Yoake Mae yori Ruri Iro na
+1220	Yokoyama Mitsuteru Sangokushi
+1221	Yomigaeru Sora - Rescue Wings
+1222	Yoshinaga-san Chi no Gargoyle
+1223	You're Under Arrest
+1224	Ys
+1225	Yu-Gi-Oh!
+1226	Yu-Gi-Oh! Capsule Monsters
+1227	Yu-Gi-Oh! GX
+1228	YuYu Hakusho
+1229	Yume Tsukai
+1230	Yume de Aetara
+1231	Yume no Crayon Oukoku
+1232	Yumeria
+1233	Z.O.E. Dolores,i
+1234	Zatch Bell!
+1235	Zegapain
+1236	Zenderman
+1237	Zenki
+1238	Zero no Tsukaima
+1239	Zero no Tsukaima Futatsuki no Kishi
+1240	Zettai Muteki Raijin-Oh
+1241	Zillion
+1242	Zipang
+1243	Zoids Fuzors
+1244	Zoids: Chaotic Century
+1245	Zoids: Genesis
+1246	Zoids: Guardian Force
+1247	Zoids: New Century Zero
+1248	Zoku Sayonara Zetsubou Sensei
+1249	Zombie-Loan
+1250	Okiku Furikabutte
